@@ -18,6 +18,6 @@ A new Flutter plugin.
   s.dependency 'MapboxAnnotationExtension', '~> 0.0.1-beta.2'
   s.dependency 'Mapbox-iOS-SDK', '~> 10.15.0'
   s.swift_version = '4.2'
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
 end
 
